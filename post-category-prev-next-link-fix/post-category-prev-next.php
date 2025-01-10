@@ -3,7 +3,7 @@
 Plugin Name: Post Category Prev-Next Link Fix
 Plugin URI: https://wordpress.org/plugins/post-category-prev-next-fix/
 Description: Solve not found page error in prev-next link of category page while using custom permalink like "/%category%/%postname%/". This is also remove category word from the url without using categorybase.
-Version: 1.0
+Version: 1.1
 Author: Ketan Ambaliya
 Author URI: https://in.linkedin.com/in/ketan-ambaliya-a7a68774
 License:      GPL2
@@ -20,7 +20,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You are allowed to use, change and redistibute without any legal issues. I am not responsible for any damage caused by this program. Use at your own risk
-Tested with Wordpress 5.2.1 
+Tested with Wordpress 5.7.1 
 */
 
 /**
